@@ -8,5 +8,8 @@ public class Cat {
     public static void main(String[] args) {
         System.out.println("sdfddsdf");
         System.out.println("hot_fix");
+        System.out.println("hot_fix");
+        System.out.println("hot_fix");
+        System.out.println("hot_fix");
     }
 }
